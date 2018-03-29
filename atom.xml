@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="TCL-Tech.github.io/"/>
-  <updated>2016-08-27T02:56:13.000Z</updated>
+  <updated>2017-06-26T09:40:15.000Z</updated>
   <id>TCL-Tech.github.io/</id>
   
   <author>
@@ -14,6 +14,78 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Android Cleaner Group 基础规范导读</title>
+    <link href="TCL-Tech.github.io/2020/06/07/Android%20Cleaner%20Group%20%E5%9F%BA%E7%A1%80%E6%8A%80%E8%83%BD%E8%A7%84%E8%8C%83%E5%AF%BC%E8%AF%BB/"/>
+    <id>TCL-Tech.github.io/2020/06/07/Android Cleaner Group 基础技能规范导读/</id>
+    <published>2020-06-07T00:55:29.000Z</published>
+    <updated>2017-06-26T09:40:15.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>学习、适应过程是痛苦的，结果是无限光明的，良好的规范能够帮助团队协同开发、快速机动化调遣、切换项目。希望Cleaner Group 成员能够认真对待、严格执行。</p>
+<h2 id="认识团队成员"><a href="#认识团队成员" class="headerlink" title="认识团队成员"></a>认识团队成员</h2><p>扫描加入团队群</p>
+<table>
+<thead>
+<tr>
+<th><img src="/images/WechatIMG33.jpeg" alt=""></th>
+<th><img src="/images/WechatIMG34.jpeg" alt=""></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="规章制度＆办公软件"><a href="#规章制度＆办公软件" class="headerlink" title="规章制度＆办公软件"></a>规章制度＆办公软件</h2><ul>
+<li>OA系统(请假/补卡/报销等)</li>
+</ul>
+<h4 id="北理工网络连接方法："><a href="#北理工网络连接方法：" class="headerlink" title="北理工网络连接方法："></a>北理工网络连接方法：</h4><ul>
+<li><p>有线网络：<br>每位员工的工位桌面均有多个数据接口，D字母开头的为有线网络接口、T字母开头为电话接口（暂未开通，具体时间另行通知），备用接口请忽略。</p>
+</li>
+<li><p>无线网络：</p>
+<pre><code>豪客内部员工： HAWK-OFFICE    密码：Hawk@tcl
+豪客海外：HAWK-OVERSEA   密码：Hawk@oversea
+访客网络：HAWK-GUEST    密码：Guest@tcl
+</code></pre><p>注：北理工海外访问权限需要申请，如需访问请发送邮件至ericcui@tcl.com，同时抄送本部门负责人，邮件信息中请注明使用网络设备的MAC地址。</p>
+</li>
+</ul>
+<h4 id="北理工打印机连接方法："><a href="#北理工打印机连接方法：" class="headerlink" title="北理工打印机连接方法："></a>北理工打印机连接方法：</h4><p>8层：8层A打印机、8层B打印机<br>9层：9层A打印机、9层B打印机<br>以上打印机位置会在图示和打印机上进行标注，打印机驱动针对windows系统的同事提供一键安装包，双击相应位置的安装包即可。<br>驱动下载地址：<br>在系统“运行”内输入 \10.115.11.230\豪客北理工打印机驱动下载\<br>注：此为临时下载地址，生效期至6月30日，稍后会通过版本更新发布正式地址。</p>
+<h2 id="基础技能"><a href="#基础技能" class="headerlink" title="基础技能"></a>基础技能</h2><ul>
+<li><a href="/2016/06/07/简明埋点说明文档/">简明埋点说明文档</a></li>
+<li>本地打包流程</li>
+</ul>
+<h2 id="基础环境搭建"><a href="#基础环境搭建" class="headerlink" title="基础环境搭建"></a>基础环境搭建</h2><h4 id="开发工具"><a href="#开发工具" class="headerlink" title="开发工具"></a>开发工具</h4><ul>
+<li><a href="https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-%E5%AE%89%E8%A3%85-Git" target="_blank" rel="external"> Git Install</a></li>
+<li><a href="https://developer.android.com/studio/index.html" target="_blank" rel="external">Android Studio Install</a></li>
+<li><a href="https://gradle.org/install" target="_blank" rel="external">Gradle Install</a></li>
+</ul>
+<h2 id="规范文档"><a href="#规范文档" class="headerlink" title="规范文档"></a>规范文档</h2><ul>
+<li><p><a href="">Android组基础开发规范</a></p>
+</li>
+<li></li>
+</ul>
+<h2 id="基础工作流程"><a href="#基础工作流程" class="headerlink" title="基础工作流程"></a>基础工作流程</h2><ul>
+<li><a href="/docs/Git Forking分享.pdf">Git Forking分享</a></li>
+<li><a href="/2016/06/07/优化Gradle%20依赖使用方式/">优化Gradle 依赖使用方式</a></li>
+<li>多语言提交流程</li>
+</ul>
+<h2 id="账号-权限申请"><a href="#账号-权限申请" class="headerlink" title="账号/权限申请"></a>账号/权限申请</h2><ul>
+<li><a href="/docs/新入职员工开通账号模板.pdf">新入职员工开通账号模板</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;学习、适应过程是痛苦的，结果是无限光明的，良好的规范能够帮助团队协同开发、快速机动化调遣、切换项目。希望Cleaner Group 成员能够认真对待、严格执行。&lt;/p&gt;
+&lt;h2 id=&quot;认识团队成员&quot;&gt;&lt;a href=&quot;#认识团队成员&quot; class=&quot;headerlink&quot;
+    
+    </summary>
+    
+      <category term="基础技能" scheme="TCL-Tech.github.io/categories/%E5%9F%BA%E7%A1%80%E6%8A%80%E8%83%BD/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello Android</title>
@@ -33,6 +105,63 @@
 &lt;h2 id=&quot;U
     
     </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>优化Gradle 依赖使用方式</title>
+    <link href="TCL-Tech.github.io/2016/06/07/%E4%BC%98%E5%8C%96Gradle%20%E4%BE%9D%E8%B5%96%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F/"/>
+    <id>TCL-Tech.github.io/2016/06/07/优化Gradle 依赖使用方式/</id>
+    <published>2016-06-07T00:55:29.000Z</published>
+    <updated>2017-06-26T02:44:55.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="优化Gradle-依赖关系"><a href="#优化Gradle-依赖关系" class="headerlink" title="优化Gradle 依赖关系"></a>优化Gradle 依赖关系</h3><p>经历过模块化后,项目依赖变的错综复杂,以至于编译速度过慢,部分模块依赖不合理导致包增大等。所以清理了一些不必要的依赖及重复依赖详见 <strong>commit</strong>：</p>
+<blockquote>
+<p><a href="http://stash.lab.tclclouds.com/projects/CLEAN/repos/cleaner_module/commits/d374e1c36d5e7a44c3b1d817216f3b6a04a9f318" target="_blank" rel="external">commits/d374e1c36d5e7a44c3b1d817216f3b6a04a9f318</a></p>
+</blockquote>
+<p>现在仍有些问题,比如 <strong>SpaceBase</strong> 依赖了 <strong>VirusEngine</strong> 等问题。</p>
+<h3 id="全新的依赖方式"><a href="#全新的依赖方式" class="headerlink" title="全新的依赖方式"></a>全新的依赖方式</h3><h4 id="需要那个开那个"><a href="#需要那个开那个" class="headerlink" title="需要那个开那个"></a>需要那个开那个</h4><p>修改项目中 <code>module.properties</code> 的配置, <code>true</code> 代表以<code>Project</code> 方式引入,反之则是<code>aar</code>方式,<strong>该配置已被忽略,只对当前工程配置有效。</strong></p>
+<p>如果你确实想提交修改,请使用 <code>git add -f module.properties</code> 命令强制添加。</p>
+<figure class="highlight lasso"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line"><span class="params">...</span></div><div class="line">isBoostengineDebug=<span class="literal">false</span></div><div class="line">isAppmgrDebug=<span class="literal">false</span></div><div class="line">isCpuDebug=<span class="literal">false</span></div><div class="line">isNotifyboxDebug=<span class="literal">false</span></div><div class="line">isHardwareDebug=<span class="literal">false</span></div><div class="line">isAntivirusDebug=<span class="literal">false</span></div><div class="line">isJunkDebug=<span class="literal">false</span></div><div class="line">isAllDebug=<span class="literal">false</span><span class="comment">// 全部 Debug，即编译Project模式</span></div></pre></td></tr></table></figure>
+<h4 id="添加新的模块依赖"><a href="#添加新的模块依赖" class="headerlink" title="添加新的模块依赖"></a>添加新的模块依赖</h4><p>如果你需要添加新的模块依赖,请按照以下方法,在 <code>module.gradle</code> 脚本中新增 <code>compile_*</code> 方法,如下:</p>
+<figure class="highlight gradle"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">def</span> compile_junk(<span class="keyword">Project</span> projectModule)&#123;</div><div class="line">    projectModule.<span class="keyword">dependencies</span>&#123;</div><div class="line">        <span class="keyword">if</span> (isAllDebug.toBoolean() || isJunkDebug.toBoolean()) &#123;</div><div class="line">            <span class="keyword">compile</span> <span class="keyword">project</span>(<span class="string">':junk'</span>)</div><div class="line">        &#125; <span class="keyword">else</span> &#123;</div><div class="line">            <span class="keyword">compile</span>(name: <span class="string">'junk'</span>, ext: <span class="string">'aar'</span>)</div><div class="line">        &#125;</div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<p>然后通过闭包形式传递出去,在 <code>module.gradle</code> 脚本中有<code>ext</code> 扩展属性 ，添加如下：</p>
+<figure class="highlight dts"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="class">ext </span>&#123;</div><div class="line">  compile_junk = this.<span class="variable">&amp;compile_junk</span>  </div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<p>最终通过以下方式使用</p>
+<figure class="highlight lisp"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">compile_junk(<span class="name">getProject</span>())</div></pre></td></tr></table></figure>
+<h3 id="模块公用的Libs库"><a href="#模块公用的Libs库" class="headerlink" title="模块公用的Libs库"></a>模块公用的Libs库</h3><p>在工程目录的顶级 <code>libs</code> 文件夹中存放着各个模块的 <code>aar</code> ,如果需要更新,可以通过脚本进行<br>全量更新,或者各模块部分更新。</p>
+<h3 id="更新AAR"><a href="#更新AAR" class="headerlink" title="更新AAR"></a>更新AAR</h3><p>在<code>cleaner</code> 工程目录下，在你每次<strong>运行</strong>程序时 <code>update-aar.gradle</code>会自动更新<strong>已开启</strong>模块(如<code>isJunkDebug=true</code>)的<code>aar</code> 到 公用<code>libs</code>库中，你所需要做的就是 <code>commit</code>，这样能保证各位小伙伴使用的都是较新的<code>aar</code>。</p>
+<p>同样的你也可以手动触发<code>Task</code>来更新<code>aar</code>，相应<code>Task</code> 如下：</p>
+<figure class="highlight gradle"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">task</span> updateAAR &lt;&lt; &#123;</div><div class="line">    eachLibsAAR()</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<h3 id="版本发布"><a href="#版本发布" class="headerlink" title="版本发布"></a>版本发布</h3><p>如果需要全部通过 <code>Project</code> 形式构建<strong>版本发布</strong>,只需添加动态参数 <code>isAllDebug=true</code> ，比如：</p>
+<figure class="highlight actionscript"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">./gradlew -PisAllDebug=<span class="literal">true</span> hello</div></pre></td></tr></table></figure>
+<p>同样的可以添加更多的模块参数,来表示某些模块通过 <code>Project</code> 形式构建，比如：</p>
+<figure class="highlight actionscript"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">./gradlew -PisAppmgrDebug=<span class="literal">true</span> -PisJunkDebug=<span class="literal">true</span> hello</div></pre></td></tr></table></figure>
+<blockquote>
+<p>注意: 默认都是以引入<code>aar</code> 形式构建(除<strong>SpaceBase</strong>),所以如果不添加参数,需要及时更新<code>aar</code></p>
+</blockquote>
+<h3 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h3><h4 id="2017-4-21-优化Gradle编译速度，最快3s。"><a href="#2017-4-21-优化Gradle编译速度，最快3s。" class="headerlink" title="2017/4/21 优化Gradle编译速度，最快3s。"></a>2017/4/21 优化Gradle编译速度，最快3s。</h4><blockquote>
+<p>1、修改<strong><code>isAllDebug</code></strong> 作用域，由原存放在<code>module.properties</code> 修改存放在<code>gradle.properties</code>中。<br>2、可选模块<strong>include</strong>，只有在<code>module.properties</code>配置文件中开关为<strong>true</strong> 的模块，才会被Android Studio 所<strong>include</strong>。<br>3、新增<code>task</code> 耗时监听，方便查看耗时<code>task</code>，在<em>Gradle Console</em> 中输出。<br>4、区分测试开发输出，新增<strong><code>dev</code></strong> <code>productFlavors</code>,同时关闭一些不用的<code>productFlavors</code>，其中<strong><code>dev</code></strong> 用于测试Jenkins 输出apk <code>flavors</code>，<strong><code>buildVersion</code></strong> 用于研发本地输出apk，<strong>minSdkVersion=21</strong>，关闭<strong>fabric</strong> 在<strong><code>buildVersion</code></strong> 中上报初始化，同时也优化了其他模块的依赖。<br>5、本地默认只有<strong><code>buildVersion</code></strong><code>flavors</code>，只有在<code>isAllDebug=true</code>的情况，才会开启其他的<code>flavors</code>。以便获得更好的编译体验。<strong>还有修改完gradle配置文件后记得点build sync<img src="/images/toolbar-sync-gradle.png" alt="Alt text">进行同步一下。</strong></p>
+</blockquote>
+<h4 id="2017-5-27-添加自动合并多语言task"><a href="#2017-5-27-添加自动合并多语言task" class="headerlink" title="2017/5/27  添加自动合并多语言task"></a>2017/5/27  添加自动合并多语言task</h4><blockquote>
+<p>1 、使用<code>Python</code>脚本自动化合入多语言的<code>task</code>，所以在使用前需要有<code>Python</code>环境，相应代码块如下：</p>
+</blockquote>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">task mergeLanguage(<span class="built_in">type</span>: Exec) &#123;</div><div class="line">    workingDir <span class="string">'./'</span></div><div class="line">    <span class="built_in">command</span>Line <span class="string">"python"</span>, <span class="string">"merge_strs.py"</span>,</div><div class="line"><span class="string">"/home/silver/ssd/AndroidStudioProjects/cleaner_module/spaceplus_android/junk/src/main/res/"</span>,</div><div class="line">            <span class="string">"/home/silver/桌面/清理缓存0502-多语言/"</span></div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<p>其中第一个参数是需要添入多语言模块文件目录，第二个参数是存放多语言文件目录。修改参数 执行<strong><code>mergeLanguage</code></strong> <code>task</code>即可合并多语言。<br><img src="/images/2017-05-27 19:26:37屏幕截图.png" alt="Alt text"></p>
+<h4 id="2017-5-31-Auto-Update-Librarys-AAR"><a href="#2017-5-31-Auto-Update-Librarys-AAR" class="headerlink" title="2017/5/31  Auto Update Librarys AAR"></a>2017/5/31  Auto Update Librarys AAR</h4><blockquote>
+<p>1 、<strong><code>quartz-robot</code></strong>会在<strong>每周一至周五(8,12,16,20h)</strong>准时自动更新<code>aar</code>到git repos。</p>
+</blockquote>
+<h4 id="2017-5-1-更新说明"><a href="#2017-5-1-更新说明" class="headerlink" title="2017/5/1  更新说明"></a>2017/5/1  更新说明</h4><p>以上是模块化后解决过渡时期编译速度慢,方便开发调试等各种便利的方案,各位研发大拿体验<br>下,感受如丝般顺滑,如有问题及时沟通。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;优化Gradle-依赖关系&quot;&gt;&lt;a href=&quot;#优化Gradle-依赖关系&quot; class=&quot;headerlink&quot; title=&quot;优化Gradle 依赖关系&quot;&gt;&lt;/a&gt;优化Gradle 依赖关系&lt;/h3&gt;&lt;p&gt;经历过模块化后,项目依赖变的错综复杂,以至于编译速度
+    
+    </summary>
+    
+      <category term="基础技能" scheme="TCL-Tech.github.io/categories/%E5%9F%BA%E7%A1%80%E6%8A%80%E8%83%BD/"/>
     
     
   </entry>
@@ -261,6 +390,70 @@
     </summary>
     
       <category term="性能优化" scheme="TCL-Tech.github.io/categories/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>简明埋点说明文档</title>
+    <link href="TCL-Tech.github.io/2016/06/07/%E7%AE%80%E6%98%8E%E5%9F%8B%E7%82%B9%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3/"/>
+    <id>TCL-Tech.github.io/2016/06/07/简明埋点说明文档/</id>
+    <published>2016-06-07T00:55:29.000Z</published>
+    <updated>2017-06-26T02:52:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>以下为部分埋点说明文档，后续补充。</p>
+<h1 id="埋点类型"><a href="#埋点类型" class="headerlink" title="埋点类型"></a>埋点类型</h1><p>埋点类型主要分为：<strong>页面及行为埋点</strong>，<strong>页面停留时长</strong> 两种。</p>
+<h2 id="页面及行为埋点"><a href="#页面及行为埋点" class="headerlink" title="页面及行为埋点"></a>页面及行为埋点</h2><p>页面及行为埋点主要分为：(Button 点击，Dialog 显示 ，Dialog 中按钮点击，Activity PV埋点，Toast Show)</p>
+<ul>
+<li>动作类型</li>
+</ul>
+<figure class="highlight processing"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line"><span class="comment">//动作选项</span></div><div class="line">    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">final</span> <span class="keyword">String</span> ACTION_PV=<span class="string">"1"</span>;<span class="comment">//这个PV主要是在一些Activity打开时候，上报一次页面埋点，pageid不变，content为""，类型PV</span></div><div class="line">    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">final</span> <span class="keyword">String</span> ACTION_CLICK=<span class="string">"2"</span>;<span class="comment">//Button 点击</span></div><div class="line">    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">final</span> <span class="keyword">String</span> ACTION_DIALOG=<span class="string">"3"</span>;<span class="comment">//Dialog show 使用</span></div><div class="line">    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">final</span> <span class="keyword">String</span> ACTION_DIALOG_YES=<span class="string">"4"</span>;<span class="comment">//Dialog 点击YES使用</span></div><div class="line">    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">final</span> <span class="keyword">String</span> ACTION_DIALOG_NO=<span class="string">"5"</span>;<span class="comment">//Dialog 点击NO使用</span></div><div class="line">    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">final</span> <span class="keyword">String</span> ACTION_TOAST=<span class="string">"6"</span>;<span class="comment">//Toast使用,目前没有</span></div></pre></td></tr></table></figure>
+<h3 id="Button-点击埋点"><a href="#Button-点击埋点" class="headerlink" title="Button 点击埋点"></a>Button 点击埋点</h3><figure class="highlight arduino"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">public</span> PageEvent(<span class="keyword">String</span> entry ,<span class="keyword">String</span> page, <span class="keyword">String</span> content, <span class="keyword">String</span> action)&#123;&#125;</div></pre></td></tr></table></figure>
+<p><strong>参数</strong>: 上级入口Activity页面ID，<strong>当前Activity页面ID</strong>，对象ID，触发类型</p>
+<p>按钮点击事件相应代码块如下：</p>
+<figure class="highlight cs"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line"><span class="comment">//清理</span></div><div class="line">        btnClean.setOnClickListener(<span class="keyword">new</span> View.OnClickListener() &#123;</div><div class="line">            @<span class="function">Override</span></div><div class="line">            <span class="keyword">public</span> <span class="keyword">void</span> <span class="title">onClick</span>(<span class="params">View v</span>) &#123;</div><div class="line"></div><div class="line">              PageEvent <span class="keyword">event</span>=<span class="keyword">new</span> PageEvent(getEntry(),DataReportPageBean.PAGE_JUNK_ADV_APP_CACHE,<span class="string">"4"</span>,DataReportPageBean.ACTION_CLICK);</div><div class="line">                DataReportFactory.getDefaultDataReport().putEvent(<span class="keyword">event</span>);</div><div class="line"></div><div class="line">            &#125;</div><div class="line">        &#125;);</div></pre></td></tr></table></figure>
+<h3 id="Dialog-Show-埋点"><a href="#Dialog-Show-埋点" class="headerlink" title="Dialog Show 埋点"></a>Dialog Show 埋点</h3><p>在对话框显示后埋点</p>
+<figure class="highlight arduino"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">public</span> PageEvent(<span class="keyword">String</span> entry ,<span class="keyword">String</span> page, <span class="keyword">String</span> content, <span class="keyword">String</span> action, <span class="keyword">String</span> content1)&#123;&#125;</div></pre></td></tr></table></figure>
+<p><strong>参数</strong>:入口页面ID，<strong>当前Dialog页面ID</strong>，没有对象ID，触发类型，文案ID</p>
+<p>其中触发类型action为<strong>DataReportPageBean.ACTION_DIALOG</strong>，文案ID有就填。</p>
+<p>相应代码块如下：<br><figure class="highlight cs"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div></pre></td><td class="code"><pre><div class="line"><span class="comment">//清理</span></div><div class="line">        btnClean.setOnClickListener(<span class="keyword">new</span> View.OnClickListener() &#123;</div><div class="line">            @<span class="function">Override</span></div><div class="line">            <span class="keyword">public</span> <span class="keyword">void</span> <span class="title">onClick</span>(<span class="params">View v</span>) &#123;</div><div class="line">            </div><div class="line">             showCleanAdvancedJunckDialog();</div><div class="line"></div><div class="line">            <span class="comment">//在Dialog显示后埋点</span></div><div class="line">              PageEvent <span class="keyword">event</span>=<span class="keyword">new</span> PageEvent(getEntry(),DataReportPageBean.PAGE_JUNK_ADV_APP_CACHE_CLEAN_DIALOG,<span class="string">""</span>,DataReportPageBean.ACTION_DIALOG,<span class="string">"119"</span>);</div><div class="line">                DataReportFactory.getDefaultDataReport().putEvent(<span class="keyword">event</span>);</div><div class="line"></div><div class="line">            &#125;</div><div class="line">        &#125;);</div></pre></td></tr></table></figure></p>
+<h4 id="Dialog-中按钮点击埋点"><a href="#Dialog-中按钮点击埋点" class="headerlink" title="Dialog 中按钮点击埋点"></a>Dialog 中按钮点击埋点</h4><p><strong>参数</strong>:入口页面ID，<strong>当前Dialog页面ID</strong>，触发类型，文案ID，对象ID，触发类型(ACTION_DIALOG_NO)</p>
+<p>参数和按钮埋点类似，触发类型action 不同为(<strong>ACTION_DIALOG_YES</strong>,<strong>ACTION_DIALOG_NO</strong>)。</p>
+<p>相应代码块如下：<br><figure class="highlight cs"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div></pre></td><td class="code"><pre><div class="line">junkDialog.setmDialogAction(<span class="keyword">new</span> JunkAdvancedSizeDialog.IJunkDialogAction() &#123;</div><div class="line">            @<span class="function">Override</span></div><div class="line">            <span class="keyword">public</span> <span class="keyword">void</span> <span class="title">ok</span>(<span class="params"></span>) &#123;</div><div class="line">                doCleanCacheInfo();</div><div class="line"></div><div class="line">                PageEvent <span class="keyword">event</span>=<span class="keyword">new</span> PageEvent(getEntry(),DataReportPageBean.PAGE_JUNK_ADV_APP_CACHE_CLEAN_DIALOG,<span class="string">"1"</span>,DataReportPageBean.ACTION_DIALOG_YES);</div><div class="line">                DataReportFactory.getDefaultDataReport().putEvent(<span class="keyword">event</span>);</div><div class="line">            &#125;</div><div class="line"></div><div class="line">            @<span class="function">Override</span></div><div class="line">            <span class="keyword">public</span> <span class="keyword">void</span> <span class="title">cancle</span>(<span class="params"></span>) &#123;</div><div class="line">                PageEvent <span class="keyword">event</span>=<span class="keyword">new</span> PageEvent(getEntry(),DataReportPageBean.PAGE_JUNK_ADV_APP_CACHE_CLEAN_DIALOG,<span class="string">"2"</span>,DataReportPageBean.ACTION_DIALOG_NO);</div><div class="line">                DataReportFactory.getDefaultDataReport().putEvent(<span class="keyword">event</span>);</div><div class="line">            &#125;</div><div class="line">        &#125;);</div><div class="line">        DialogUtil.show(junkDialog);</div></pre></td></tr></table></figure></p>
+<h3 id="Activity-PV-埋点-界面级别"><a href="#Activity-PV-埋点-界面级别" class="headerlink" title="Activity PV 埋点(界面级别)"></a>Activity PV 埋点(界面级别)</h3><p>  这个PV主要是在一些Activity打开时候，上报一次页面埋点，pageid不变，content为””，类型PV</p>
+<h3 id="Toast-Show-埋点"><a href="#Toast-Show-埋点" class="headerlink" title="Toast Show 埋点"></a>Toast Show 埋点</h3><p>在Toast显示后埋点</p>
+<figure class="highlight arduino"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">public</span> PageEvent(<span class="keyword">String</span> entry ,<span class="keyword">String</span> page, <span class="keyword">String</span> content, <span class="keyword">String</span> action, <span class="keyword">String</span> content1)&#123;&#125;</div></pre></td></tr></table></figure>
+<p><strong>参数</strong>:入口页面ID，<strong>当前Activity页面ID</strong>，没有对象ID，触发类型(TOAST)，文案ID</p>
+<p>相应代码块如下：<br><figure class="highlight cs"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">PageEvent <span class="keyword">event</span>=<span class="keyword">new</span> PageEvent(getEntry(),DataReportPageBean.PAGE_JUNK_ADV_APP_CACHE,<span class="string">""</span>,DataReportPageBean.ACTION_TOAST,<span class="string">"122"</span>);</div><div class="line">            DataReportFactory.getDefaultDataReport().putEvent(<span class="keyword">event</span>);</div></pre></td></tr></table></figure></p>
+<h2 id="页面停留时长"><a href="#页面停留时长" class="headerlink" title="页面停留时长"></a>页面停留时长</h2><p>用于统计页面停留时长</p>
+<h3 id="参数说明"><a href="#参数说明" class="headerlink" title="参数说明"></a>参数说明</h3><p>页面入口来源：点击桌面icon=1、通知栏标记为=2， home键后系统菜单唤醒=3，其他为页面id     entry<br>当前页面    page<br>当前页面停留时长（页面前台展示的时长）    staytime</p>
+<p>在activity 的onStopAction 方法添加相应代码块如下：</p>
+<figure class="highlight less"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line"><span class="variable">@Override</span></div><div class="line">    protected void onStopAction() &#123;</div><div class="line">        super<span class="selector-class">.onStopAction</span>();</div><div class="line"></div><div class="line">        <span class="comment">//页面停留时长</span></div><div class="line">        PageTimeEvent event=new PageTimeEvent(getEntry(),DataReportPageBean<span class="selector-class">.PAGE_JUNK_ADV_APP_CACHE</span>,<span class="selector-tag">String</span><span class="selector-class">.valueOf</span>(getStayTime()));</div><div class="line">        DataReportFactory<span class="selector-class">.getDefaultDataReport</span>()<span class="selector-class">.putEvent</span>(event);</div><div class="line">    &#125;</div></pre></td></tr></table></figure>
+<h2 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h2><p>基础服务平台测试地址：<br><a href="http://feedback.tclclouds.com/admin/toLogin.shtml?redir=/admin/logout.shtml" target="_blank" rel="external">http://feedback.tclclouds.com/admin/toLogin.shtml?redir=/admin/logout.shtml</a></p>
+<table>
+<thead>
+<tr>
+<th>用户名</th>
+<th>密码</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>cleanlogger</td>
+<td>cleanlogger</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;以下为部分埋点说明文档，后续补充。&lt;/p&gt;
+&lt;h1 id=&quot;埋点类型&quot;&gt;&lt;a href=&quot;#埋点类型&quot; class=&quot;headerlink&quot; title=&quot;埋点类型&quot;&gt;&lt;/a&gt;埋点类型&lt;/h1&gt;&lt;p&gt;埋点类型主要分为：&lt;strong&gt;页面及行为埋点&lt;/strong&gt;，&lt;st
+    
+    </summary>
+    
+      <category term="基础技能" scheme="TCL-Tech.github.io/categories/%E5%9F%BA%E7%A1%80%E6%8A%80%E8%83%BD/"/>
     
     
   </entry>

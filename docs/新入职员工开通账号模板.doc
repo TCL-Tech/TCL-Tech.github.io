@@ -1,0 +1,458 @@
+Message-ID: <818051957.21425.1498468427289.JavaMail.root@node8>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_21424_1194727801.1498468427289"
+
+------=_Part_21424_1194727801.1498468427289
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>=E6=96=B0=E5=85=A5=E8=81=8C=E5=91=98=E5=B7=A5=E5=BC=80=E9=80=9A=
+=E8=B4=A6=E5=8F=B7=E6=A8=A1=E6=9D=BF</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+#main {
+    padding-bottom: 1em !important; /* The default padding of 6em is too mu=
+ch for printouts */
+}
+
+body {
+    font-family: Arial, Helvetica, FreeSans, sans-serif;
+    font-size: 10pt;
+    line-height: 1.2;
+}
+
+body, #full-height-container, #main, #page, #content, .has-personal-sidebar=
+ #content {
+    background: #fff    !important;
+    color: #000         !important;
+    border: 0           !important;
+    width: 100%         !important;
+    height: auto        !important;
+    min-height: auto    !important;
+    margin: 0           !important;
+    padding: 0          !important;
+    display: block      !important;
+}
+
+a, a:link, a:visited, a:focus, a:hover, a:active {
+    color: #000;
+}
+#content h1,
+#content h2,
+#content h3,
+#content h4,
+#content h5,
+#content h6 {
+    font-family: Arial, Helvetica, FreeSans, sans-serif;
+    page-break-after: avoid;
+}
+pre {
+    font-family: Monaco, "Courier New", monospace;
+}
+
+#header,
+.aui-header-inner,
+#navigation,
+#sidebar,
+.sidebar,
+#personal-info-sidebar,
+.ia-fixed-sidebar,
+.page-actions,
+.navmenu,
+.ajs-menu-bar,
+.noprint,
+.inline-control-link,
+.inline-control-link a,
+a.show-labels-editor,
+.global-comment-actions,
+.comment-actions,
+.quick-comment-container,
+#addcomment {
+    display: none !important;
+}
+
+.comment .date::before {
+    content: none !important; /* remove middot for print view */
+}
+
+h1.pagetitle img {
+    height: auto;
+    width: auto;
+}
+
+.print-only {
+    display: block;
+}
+#footer {
+    position: relative !important; /* CONF-17506 Place the footer at end of=
+ the content */
+    margin: 0;
+    padding: 0;
+    background: none;
+    clear: both;
+}
+
+#poweredby {
+    border-top: none;
+    background: none;
+}
+
+#poweredby li.print-only {
+    display: list-item;
+    font-style: italic;
+}
+
+#poweredby li.noprint {
+    display:none;
+}
+
+
+/* no width controls in print */
+.wiki-content .table-wrap,
+.wiki-content p,
+.panel .codeContent,
+.panel .codeContent pre,
+.image-wrap {
+    overflow: visible !important;
+}
+
+/* TODO - should this work? */
+#children-section,
+#comments-section .comment,
+#comments-section .comment .comment-body,
+#comments-section .comment .comment-content,
+#comments-section .comment p {
+    page-break-inside: avoid;
+}
+
+#page-children a {
+    text-decoration: none;
+}
+
+/**
+ hide twixies
+
+ the specificity here is a hack because print styles
+ are getting loaded before the base styles. */
+#comments-section.pageSection .section-header,
+#comments-section.pageSection .section-title,
+#children-section.pageSection .section-header,
+#children-section.pageSection .section-title,
+.children-show-hide {
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.children-show-hide.icon {
+    display: none;
+}
+
+/* personal sidebar */
+.has-personal-sidebar #content {
+    margin-right: 0px;
+}
+
+.has-personal-sidebar #content .pageSection {
+    margin-right: 0px;
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>=E6=96=B0=E5=85=A5=E8=81=8C=E5=91=98=E5=B7=A5=E5=BC=80=E9=80=9A=E8=
+=B4=A6=E5=8F=B7=E6=A8=A1=E6=9D=BF</h1>
+    <div class=3D"Section1">
+        <h3 id=3D"id-=E6=96=B0=E5=85=A5=E8=81=8C=E5=91=98=E5=B7=A5=E5=BC=80=
+=E9=80=9A=E8=B4=A6=E5=8F=B7=E6=A8=A1=E6=9D=BF-1.=E5=BC=80=E9=80=9Aconfluenc=
+e=E8=B4=A6=E5=8F=B7"><span style=3D"color: rgb(0,51,102);">1.=E5=BC=80=E9=
+=80=9Aconfluence=E8=B4=A6=E5=8F=B7</span></h3>
+<p><span style=3D"color: rgb(0,51,102);">&nbsp;</span></p>
+<p>=E5=8F=91=E9=80=81=E9=82=AE=E4=BB=B6=E7=BB=99=E5=80=AA=E8=89=AF=EF=BC=88=
+liangni@<a href=3D"http://tcl.com/" class=3D"external-link" rel=3D"nofollow=
+"><u>tcl.com</u></a>=EF=BC=89,=E6=8A=84=E9=80=81 =E6=A0=87=E6=98=8E=E8=87=
+=AA=E5=B7=B1=E7=9A=84=E9=82=AE=E7=AE=B1=E4=BB=A5=E5=8F=8A=E6=89=80=E5=B1=9E=
+=E7=9A=84=E7=BB=84</p>
+<p><span>=E9=82=AE=E4=BB=B6=E6=A0=87=E9=A2=98=EF=BC=9A=E9=82=AE=E4=BB=B6=E7=
+=BB=84=E4=BB=A5=E5=8F=8Aconfluence=E8=B4=A6=E5=8F=B7=E4=B8=AA=E4=BA=BA=E7=
+=94=A8=E6=88=B7=E7=94=B3=E8=AF=B7-${=E5=A6=82 sog_sz_android=EF=BC=8Csog_sz=
+_server ,sog_bj_android,sog_sz_pm=E7=AD=89}<span><span>&nbsp;</span></span>=
+</span></p>
+<div>
+=E6=94=B6=E4=BB=B6=E4=BA=BA=EF=BC=9Aliangni@
+<a href=3D"http://tcl.com/" class=3D"external-link" rel=3D"nofollow"><u>tcl=
+.com</u></a>
+</div>
+<p>=E6=8A=84=E9=80=81=EF=BC=9A=E5=BE=90=E6=80=BB=EF=BC=88<a href=3D"mailto:=
+arthurxu@tcl.com" class=3D"external-link" rel=3D"nofollow"><u>arthurxu@tcl.=
+com</u></a>&nbsp;=EF=BC=89=E5=92=8C=E6=89=80=E5=B1=9Eleader=E9=82=AE=E4=BB=
+=B6</p>
+<p><span><span>=E9=82=AE=E4=BB=B6=E5=86=85=E5=AE=B9=E6=A8=A1=E6=9D=BF=EF=BC=
+=9A</span></span></p>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<tbody>
+<tr>
+<td colspan=3D"2" style=3D"text-align: center;" class=3D"confluenceTd">conf=
+luence=E8=B4=A6=E5=8F=B7=E7=94=B3=E8=AF=B7</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=82=AE=E7=AE=B1=E5=9C=B0=E5=9D=80</td>
+<td class=3D"confluenceTd"><span>=E6=89=80=E5=B1=9E=E7=94=A8=E6=88=B7=E7=BB=
+=84</span></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><a class=3D"external-link" href=3D"mailto:mal=
+u@tcl.com" rel=3D"nofollow"><u>xxxx</u></a></p><p>&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>=E5=A6=82 sog_sz_android=EF=BC=8Csog_sz_serve=
+r ,sog_bj_android,sog_sz_pm=E7=AD=89</p><p>&nbsp;</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><span style=3D"color: rgb(0,51,102);"><br /></span></p>
+<h3 id=3D"id-=E6=96=B0=E5=85=A5=E8=81=8C=E5=91=98=E5=B7=A5=E5=BC=80=E9=80=
+=9A=E8=B4=A6=E5=8F=B7=E6=A8=A1=E6=9D=BF-2.=E5=85=B3=E4=BA=8E=E7=94=B3=E8=AF=
+=B7=E5=8A=A0=E5=85=A5=E9=82=AE=E4=BB=B6=E7=BB=84"><br /><span style=3D"colo=
+r: rgb(0,51,102);"><strong><span style=3D"line-height: 1.42857;"><span styl=
+e=3D"line-height: 1.42857;">2.=E5=85=B3=E4=BA=8E=E7=94=B3=E8=AF=B7=E5=8A=A0=
+=E5=85=A5=E9=82=AE=E4=BB=B6=E7=BB=84</span></span></strong></span></h3>
+<div>
+<p>&nbsp;</p>=E5=8F=91=E9=80=81=E9=82=AE=E4=BB=B6=E7=BB=99=E7=99=BE=E5=90=
+=88=EF=BC=88lilychang
+<a class=3D"external-link" href=3D"mailto:Vivianan@tcl.com" rel=3D"nofollow=
+"><u>@tcl.com</u></a>=EF=BC=89,=E6=8A=84=E9=80=81 =E6=A0=87=E6=98=8E=E8=87=
+=AA=E5=B7=B1=E7=9A=84=E9=82=AE=E7=AE=B1=E4=BB=A5=E5=8F=8A=E6=89=80=E5=B1=9E=
+=E7=9A=84=E7=BB=84
+<div>
+<p>=E9=82=AE=E4=BB=B6=E6=A0=87=E9=A2=98=EF=BC=9A=E7=94=B3=E8=AF=B7=E5=8A=A0=
+=E5=85=A5=E9=82=AE=E4=BB=B6=E7=BB=84=E4=B8=AA=E4=BA=BA=E7=94=A8=E6=88=B7=E7=
+=94=B3=E8=AF=B7-${=E5=A6=82 sog_sz_android=EF=BC=8Csog_sz_server ,sog_bj_an=
+droid,sog_sz_pm=E7=AD=89}</p>
+<p><span style=3D"color: rgb(0,51,102);"><span>&nbsp;</span></span></p>
+<div>
+=E6=94=B6=E4=BB=B6=E4=BA=BA=EF=BC=9Alilychang
+<a class=3D"external-link" href=3D"mailto:Vivianan@tcl.com" rel=3D"nofollow=
+"><u>@tcl.com</u></a>=EF=BC=88=E7=99=BE=E5=90=88=EF=BC=89
+</div>
+<p><span style=3D"color: rgb(0,51,102);"><span>&nbsp;</span></span></p>
+<div>
+=E6=8A=84=E9=80=81=EF=BC=9A=E5=BE=90=E6=80=BB=EF=BC=88
+<a href=3D"mailto:arthurxu@tcl.com" class=3D"external-link" rel=3D"nofollow=
+"><u>arthurxu@tcl.com</u></a>&nbsp;=EF=BC=89=E5=92=8C=E6=89=80=E5=B1=9Elead=
+er=E9=82=AE=E4=BB=B6
+</div>
+<div>
+<span><br /></span>
+</div>
+</div>
+<div>
+<span>=E9=82=AE=E4=BB=B6=E5=86=85=E5=AE=B9=E6=A8=A1=E6=9D=BF=EF=BC=9A</span=
+>
+</div>
+<div>
+<p>&nbsp;</p>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<tbody>
+<tr>
+<td colspan=3D"2" style=3D"text-align: center;" class=3D"confluenceTd">=E9=
+=82=AE=E4=BB=B6=E7=BB=84=E5=8A=A0=E5=85=A5=E7=94=B3=E8=AF=B7</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=82=AE=E7=AE=B1=E5=9C=B0=E5=9D=80</td>
+<td class=3D"confluenceTd"><span>=E6=89=80=E5=B1=9E=E7=94=A8=E6=88=B7=E7=BB=
+=84</span></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><a class=3D"external-link" href=3D"mailto:mal=
+u@tcl.com" rel=3D"nofollow"><u>xxxx</u></a></p><p>&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>=E5=A6=82 sog_sz_android=EF=BC=8Csog_sz_serve=
+r ,sog_bj_android,sog_sz_pm=E7=AD=89</p><p>&nbsp;</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>
+</div>
+</div>
+<h3 id=3D"id-=E6=96=B0=E5=85=A5=E8=81=8C=E5=91=98=E5=B7=A5=E5=BC=80=E9=80=
+=9A=E8=B4=A6=E5=8F=B7=E6=A8=A1=E6=9D=BF-3.=E5=BC=80=E9=80=9Ajira=E8=B4=A6=
+=E5=8F=B7"><span style=3D"color: rgb(0,51,102);">3.=E5=BC=80=E9=80=9Ajira=
+=E8=B4=A6=E5=8F=B7</span></h3>
+<p>&nbsp;</p>
+<div>
+=E9=82=AE=E4=BB=B6=E6=A0=87=E9=A2=98=EF=BC=9Ajira=E8=B4=A6=E5=8F=B7=E4=B8=
+=AA=E4=BA=BA=E7=94=A8=E6=88=B7=E7=94=B3=E8=AF=B7-${=E5=A6=82 sog_sz_android=
+=EF=BC=8Csog_sz_server ,sog_bj_android,sog_sz_pm}
+</div>
+<div>
+=E6=94=B6=E4=BB=B6=E4=BA=BA=EF=BC=9A
+<a href=3D"mailto:jun-z@tcl.com" class=3D"external-link" rel=3D"nofollow"><=
+u>jun-z@tcl.com</u></a>
+</div>
+<div>
+=E6=8A=84=E9=80=81=EF=BC=9A=E5=BE=90=E6=80=BB=EF=BC=88
+<a href=3D"mailto:arthurxu@tcl.com" class=3D"external-link" rel=3D"nofollow=
+">arthurxu@tcl.com</a>&nbsp;=EF=BC=89=E5=92=8C=E6=89=80=E5=B1=9Eleader=E9=
+=82=AE=E4=BB=B6
+</div>
+<div>
+<span>=E9=82=AE=E4=BB=B6=E5=86=85=E5=AE=B9=E6=A8=A1=E6=9D=BF=EF=BC=9A</span=
+>
+<p>&nbsp;</p>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<tbody>
+<tr>
+<td colspan=3D"2" style=3D"text-align: center;" class=3D"confluenceTd">jira=
+=E8=B4=A6=E5=8F=B7=E7=94=B3=E8=AF=B7</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=82=AE=E7=AE=B1=E5=9C=B0=E5=9D=80</td>
+<td class=3D"confluenceTd"><span>=E6=89=80=E5=B1=9E=E7=94=A8=E6=88=B7=E7=BB=
+=84</span></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><a class=3D"external-link" href=3D"mailto:mal=
+u@tcl.com" rel=3D"nofollow"><u>xxxx</u></a></p><p>&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>=E5=A6=82 sog_sz_android=EF=BC=8Csog_sz_serve=
+r ,sog_bj_android,sog_sz_pm=E7=AD=89</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>
+</div>
+<h3 id=3D"id-=E6=96=B0=E5=85=A5=E8=81=8C=E5=91=98=E5=B7=A5=E5=BC=80=E9=80=
+=9A=E8=B4=A6=E5=8F=B7=E6=A8=A1=E6=9D=BF-4.=E5=BC=80=E5=8F=91=E4=BA=BA=E5=91=
+=98=E5=8F=A6=E5=BC=80=E9=80=9Astash=E8=B4=A6=E5=8F=B7"><span style=3D"color=
+: rgb(0,0,128);">4.=E5=BC=80=E5=8F=91=E4=BA=BA=E5=91=98=E5=8F=A6=E5=BC=80=
+=E9=80=9Astash =E8=B4=A6=E5=8F=B7</span></h3>
+<div>
+<div class=3D"wiki-content">
+<p>=E9=82=AE=E4=BB=B6=E6=A0=87=E9=A2=98=EF=BC=9Astash=E4=B8=AA=E4=BA=BA=E7=
+=94=A8=E6=88=B7=E7=94=B3=E8=AF=B7-$(SOG-clean&nbsp;}</p>
+<p>=E6=94=B6=E4=BB=B6=E4=BA=BA=EF=BC=9A<a class=3D"external-link" href=3D"m=
+ailto:qiang.gao@tcl.com" rel=3D"nofollow"><u>qiang.gao@tcl.com</u></a>;dick=
+wu@<a href=3D"http://tcl.com" class=3D"external-link" rel=3D"nofollow">tcl.=
+com</a>;macyuan@<a href=3D"http://tcl.com" class=3D"external-link" rel=3D"n=
+ofollow">tcl.com</a></p>
+<p>=E6=8A=84=E9=80=81=EF=BC=9A=E5=BE=90=E6=80=BB=EF=BC=88<a href=3D"mailto:=
+arthurxu@tcl.com" style=3D"line-height: 1.42857;" class=3D"external-link" r=
+el=3D"nofollow">arthurxu@tcl.com</a>&nbsp;=EF=BC=89=E5=92=8Cjunchen@<a href=
+=3D"http://tcl.com" style=3D"line-height: 1.42857;" class=3D"external-link"=
+ rel=3D"nofollow">tcl.com</a>,liangni@tcl.com,cloud-operation &lt;Cloud-Ope=
+ration@<a class=3D"external-link" href=3D"http://tcl.com/" rel=3D"nofollow"=
+ style=3D"line-height: 1.42857;"><u>tcl.com</u></a>&gt; =E5=8F=A6=E9=99=84 =
+=E6=89=80=E5=B1=9Eleader=E9=82=AE=E4=BB=B6</p>
+<p>&nbsp;</p>
+<span>=E9=82=AE=E4=BB=B6=E5=86=85=E5=AE=B9=E6=A8=A1=E6=9D=BF=EF=BC=9A</span=
+>
+<p>&nbsp;</p>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<colgroup>
+<col />
+<col />
+</colgroup>
+<tbody>
+<tr>
+<td colspan=3D"2" style=3D"text-align: center;" class=3D"confluenceTd">stas=
+h=E4=B8=AA=E4=BA=BA=E8=B4=A6=E6=88=B7=E7=94=B3=E8=AF=B7</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=82=AE=E7=AE=B1=E5=9C=B0=E5=9D=80</td>
+<td class=3D"confluenceTd"><span>=E6=89=80=E5=B1=9E=E7=94=A8=E6=88=B7=E7=BB=
+=84</span></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><a href=3D"mailto:malu@tcl.com" class=3D"exte=
+rnal-link" rel=3D"nofollow">xxxx</a></p><p>&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>SOG-clean&nbsp;</p><p>&nbsp;</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>=E6=B3=A8=E6=84=8F=EF=BC=9A=E5=BC=80=E9=80=9Astash =E5=8C=97=E4=BA=AC=E7=
+=9A=84Android =E5=9B=A2=E9=98=9F=E9=9C=80<span style=3D"color: rgb(0,51,102=
+);">=E7=8E=8B=E7=87=9A</span>=E5=90=8C=E6=84=8F=E5=8D=B3=E5=8F=AF</p>
+<p><span style=3D"color: rgb(255,0,0);">stash=E9=82=AE=E4=BB=B6=E9=9C=80=E8=
+=A6=81=E6=8E=88=E6=9D=83=E4=BA=BA=E6=88=96=E9=83=A8=E9=97=A8leader=E9=82=AE=
+=E4=BB=B6=E7=A1=AE=E8=AE=A4=EF=BC=8C=E4=B9=9F=E5=8F=AF=E4=BB=A5=E7=9B=B4=E6=
+=8E=A5=E7=94=B1=E6=8E=88=E6=9D=83=E4=BA=BA=E6=88=96=E9=83=A8=E9=97=A8leader=
+=E5=8F=91=E5=87=BA</span></p>
+<p><span style=3D"color: rgb(255,0,0);">=E6=B3=A8=E6=84=8F=E6=8A=84=E9=80=
+=81=E7=BB=99=E8=87=AA=E5=B7=B1leader =E4=B8=8D=E7=94=A8=E6=8A=84=E9=80=81=
+=E7=BB=99=E6=89=80=E6=9C=89=E7=9A=84leader =E5=8D=B3=E5=8F=AF</span></p>
+<p><span style=3D"color: rgb(255,0,0);">=E5=90=84=E8=87=AAleader=E9=82=AE=
+=E4=BB=B6<br /></span></p>
+<p><span style=3D"color: rgb(255,0,0);">=EF=BC=88=E7=8E=8B=E7=8E=AE=EF=BC=
+=88=E6=9C=8D=E5=8A=A1=E7=AB=AF=EF=BC=89 <a href=3D"mailto:wei.w@tcl.com" cl=
+ass=3D"external-link" rel=3D"nofollow"><u>wei.w@tcl.com</u></a>&nbsp;=E5=BC=
+=A0=E9=9D=99=EF=BC=88=E4=BA=A7=E5=93=81=EF=BC=89 <a href=3D"mailto:shirleyz=
+hang@tcl.com" class=3D"external-link" rel=3D"nofollow"><u>shirleyzhang@tcl.=
+com</u></a>&nbsp; =E5=BC=A0=E5=86=9B =EF=BC=88<a href=3D"mailto:jun-z@tcl.c=
+om" class=3D"external-link" rel=3D"nofollow"><u>jun-z@tcl.com</u></a>=EF=BC=
+=89=E5=80=AA=E8=89=AF=EF=BC=88=E6=B7=B1=E5=9C=B3=E5=AE=A2=E6=88=B7=E7=AB=AF=
+=EF=BC=89(liangni<a href=3D"mailto:wei.w@tcl.com" class=3D"external-link" r=
+el=3D"nofollow"><u>@tcl.com</u></a>&nbsp;=EF=BC=89=E7=8E=8B=E7=87=9A=EF=BC=
+=88=E5=8C=97=E4=BA=AC=E5=AE=A2=E6=88=B7=E7=AB=AF=EF=BC=89<a href=3D"mailto:=
+yrickwang@tcl.com" class=3D"external-link" rel=3D"nofollow"><u>yrickwang@tc=
+l.com</u></a><span>&nbsp;&nbsp;=E5=90=B4=E8=8A=B3<a href=3D"mailto:abelwu@t=
+cl.com" class=3D"external-link" rel=3D"nofollow">abelwu@tcl.com</a> </span>=
+=EF=BC=89</span></p>
+<p><span style=3D"color: rgb(255,0,0);">&nbsp;</span></p>
+</div>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_21424_1194727801.1498468427289--
